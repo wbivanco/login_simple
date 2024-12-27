@@ -1,0 +1,15 @@
+# Python
+venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.mypy_cache
+.coverage
+.tox
+.venv
+.ropeproject
+.idea/
+
+# Visual Studio Code
+.vscode/
